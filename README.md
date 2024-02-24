@@ -2,7 +2,7 @@
 <h3 align="center">저는 Frontend developer 그리고 Start up co-founder 입니다.</h3>
 
 <!--배너 추가 추가 -->
-![MasterHead](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1708788914~exp=1708792514~hmac=b093c95f5ec511918ee44e608f0f6cc86b5e218816826294eb41fa738779b541&w=780)
+![MasterHead](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1708788914~exp=1708792514~hmac=b093c95f5ec511918ee44e608f0f6cc86b5e218816826294eb41fa738779b541&w=580)
 
 <!--GIF 이미지 추가 -->
 <img align="right" alt="코딩" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
