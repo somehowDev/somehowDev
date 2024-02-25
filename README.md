@@ -72,6 +72,8 @@
 
 <br />
 
+<div style="display: flex; align-items: center; flex-direction: column; justify-content: center;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somehowdev&show_icons=true&locale=en&layout=compact" alt="somehowdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somehowdev&show_icons=true&locale=en" alt="somehowdev" /></p>
+</div>
