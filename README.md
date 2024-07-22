@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <어쩌다 개발자 /></h1>
-<h3 align="center">저는 Frontend developer 그리고 스타트업 공동창업자를 거쳐, 지금은 프리랜서, 퍼스널 브랜딩에 관심이 많은 개발자 입니다.</h3>
+<h3 align="center">저는 Frontend developer 그리고 스타트업 공동창업자를 거쳐, <br /> 
+  지금은 프리랜서, 퍼스널 브랜딩에 관심이 많은 개발자 입니다.</h3>
 <!--배너 추가 추가 -->
 <h1 align="center">
   <img align="center" alt="배너" width="580" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" />
