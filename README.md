@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <어쩌다 개발자 /></h1>
-<h3 align="center">저는 Frontend developer 그리고 스타트업 공동창업자를 거쳐, <br /> 
+<h3 align="center">안녕하세요, 저는 Frontend Developer 그리고 스타트 업 공동 창업자를 거쳐, <br /> 
   지금은 프리랜서, 퍼스널 브랜딩에 관심이 많은 개발자 입니다.</h3>
 <!--배너 추가 추가 -->
 <h1 align="center">
