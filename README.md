@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **프론트엔드 개발, 취업 노하우, 면접 노하우, 스타트 업, UI/UX  등등**
 
-- 🌱 I’m currently learning **회사 운영, 개발, 강의 만들기, 대화 기술, 마인드 셋 등등**
+- 🌱 I’m currently learning **퍼스널브랜딩, 개발, 강의, 대화 기술, 마인드 셋 등등**
 
 - ⚡ Fun fact **개발, 독서, 운동, 상담, 잡담 등등**
 
