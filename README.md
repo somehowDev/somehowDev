@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailharshkhatri@gmail.com)
 
 ```코드 한 줄이 세상을 바꿀 수 있다고 믿습니다! 💻 신입 개발자로서 끊임없는 학습과 성장을 추구하며, 더 나은 해결책을 찾기 위해 노력하고 있습니다. 🌱 기술을 통해 문제를 해결하는 과정에서 얻는 성취감이 저를 계속 앞으로 나아가게 합니다.```
 
