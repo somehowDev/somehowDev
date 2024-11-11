@@ -1,27 +1,39 @@
-# 안녕하세요! 👋
+<h2> 안녕하세요 FE 개발자 OOO 입니다! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-저는 주니어 개발자입니다. 주로 ***JavaScript***와 ***React***로 프로젝트를 진행하며, <br />
-다양한 오픈 소스 프로젝트에 기여하고 있습니다. 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-✨ **제가 소중히 여기는 가치**
-- 끊임없는 학습과 자기 계발
-- 협업을 통한 문제 해결
-- 효율적인 코드와 모듈화된 설계
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-## 🛠️ 기술 스택
-### 💻 프론트엔드
-- HTML, CSS, JavaScript (ES6+)
-- React, Redux, Next.js
-- TypeScript
-- Sass, Styled-Components
+```코드 한 줄이 세상을 바꿀 수 있다고 믿습니다! 💻 신입 개발자로서 끊임없는 학습과 성장을 추구하며, 더 나은 해결책을 찾기 위해 노력하고 있습니다. 🌱 기술을 통해 문제를 해결하는 과정에서 얻는 성취감이 저를 계속 앞으로 나아가게 합니다.```
 
-### ⚙️ 백엔드 & 데이터베이스
-- Node.js, Express
-- MongoDB, MySQL
-- Firebase (Authentication, Firestore, Hosting)
+<br /> <br />
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- ⚡ Fun fact: Internet users blink less than usual.
+## 👯 Communities
+* DSC Lead.
+* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
+* Microsoft Student Learn Ambassador (MSP/MLSA).
+* Deeplearning.ai event ambassador.
+* Management Team Lead at Voice Of Code.
+* CSE Club at CPU.
+* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
+* Internshala Student Partner-16.
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Backend development using **Flask, Django**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Java and Python**.
 
-### 🧪 도구와 기타 기술
-- Git, GitHub, GitLab
-- Webpack, Babel
-- Jest, Cypress (테스트 자동화)
-- RESTful API 설계 및 GraphQL
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
