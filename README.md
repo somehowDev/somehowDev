@@ -5,9 +5,12 @@
 ![Gmail Badge](https://img.shields.io/badge/-본인주소@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 ![Naver Badge](https://img.shields.io/badge/-본인주소@naver.com-17b75e?style=flat-square&logo=Naver&logoColor=white)
 
-안녕하세요, 반갑습니다. 저는 현재 프리랜서 및 퍼스널브랜딩에 관심이 많은 프론트엔드 개발자 입니다.
-지금은 취업 준비생, 대학생, 비전공자들에게 작게나마 도움을 주는 일을 하고 있습니다.
-"매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다."
+<br />
+
+안녕하세요, 반갑습니다. 저는 현재 프리랜서 및 퍼스널브랜딩에 관심이 많은 프론트엔드 개발자 입니다.  <br />
+지금은 취업 준비생, 대학생, 비전공자들에게 작게나마 도움을 주는 일을 하고 있습니다.  
+
+#### **_"매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다."_**
 
 ---
 예시 문구
