@@ -4,7 +4,6 @@
 
 ![Gmail Badge](https://img.shields.io/badge/-본인주소@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 ![Naver Badge](https://img.shields.io/badge/-본인주소@naver.com-17b75e?style=flat-square&logo=Naver&logoColor=white)
-
 <br />
 
 **안녕하세요! 문제의 본질을 파악하고 해결하는 데 가치를 두는 개발자 지망생입니다.** 🧩✨  
@@ -112,7 +111,7 @@
 
 <br /><br />
 
-## 🔨 Languages and Tools:
+## 🔨 Languages and Tools: https://www.vectorlogo.zone/
 <div style="display: flex; flex-wrap: nowrap;">
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
