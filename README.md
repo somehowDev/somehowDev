@@ -58,11 +58,49 @@
 ```
 
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
-- ⚡ Fun fact: Internet users blink less than usual.
+- 💬 무엇이든 편하게 물어보세요. 함께 성장하는 대화를 나누고 싶습니다.
+- 📫 Read my blogs: [기술블로그](url).
+- 📑 Resume: [Resume](https://zztkdfo.github.io/).
+- 🎯 Portfolio site: [Portfolio](https://portfolio-zztkdfo.vercel.app/).
+- ⚡ Fun fact: 개발, 독서, 운동, 러닝, 상담, 잡담 등등.
+
+```
+- 💬 무엇이든 편하게 물어보세요. 함께 성장하는 대화를 나누고 싶습니다.
+- 📫 Read my blogs: [기술블로그](url).
+- 📑 Resume: [Resume](https://zztkdfo.github.io/).
+- 🎯 Portfolio site: [Portfolio](https://portfolio-zztkdfo.vercel.app/).
+- ⚡ Fun fact: 개발, 독서, 운동, 러닝, 상담, 잡담 등등.
+- 📝 개발 노트: 기술을 배우며 쌓아 온 인사이트를 정리한 개발 노트를 만들고 있습니다.
+- 🚀 준비 중인 프로젝트: 실력을 쌓기 위해 작은 프로젝트들을 꾸준히 진행하고 있습니다.
+- 🔔 곧 유튜브 채널도 시작해 개발 학습 기록을 공유할 예정입니다. 기대해 주세요!
+- ⚡ 재미있는 사실: 개발에 집중할 때 시간 가는 줄 모릅니다!
+- 🌱 매일 조금씩 배우며 더 나은 개발자가 되기 위해 노력하고 있습니다.
+- 📂 다양한 주제로 실습한 프로젝트들을 노션에 정리해 두고 있습니다.
+- 💡 개인 블로그를 준비하고 있으며, 개발 여정과 학습 경험을 나누려 합니다.
+- ✏️ 기술 학습과 팁을 공유하는 **개발 다이어리**를 시작할 예정입니다.
+- 🧩 해결했던 문제나 프로젝트에 대한 경험을 곧 블로그에 기록할 예정입니다.
+- 🖇️ GitHub 프로젝트를 통해 개인적인 학습 과정을 기록 중입니다.
+- 🔍 프론트엔드 기술과 문제 해결에 대한 팁을 모은 자료를 곧 공개하려 합니다.
+- 🎨 취미로 UI/UX 디자인을 공부하며 시각적인 표현을 탐구하고 있습니다.
+- 📖 글쓰기와 기록을 좋아해 개발 노트와 일지를 꾸준히 작성하고 있습니다.
+- 🎲 새로운 도전을 즐깁니다. 요즘은 데이터 시각화와 같은 신기술에 관심이 많아요!
+- 📚 매달 한 권 이상의 개발 관련 책을 읽고, 배운 점을 정리하는 습관을 들이고 있습니다.
+- 🎯 문제 해결을 즐깁니다. 복잡한 문제일수록 더 도전 의식이 생깁니다!
+- 🎼 음악을 들으며 코딩할 때 집중력이 더 올라가는 것 같습니다.
+- ✈️ 여행을 좋아하며, 다양한 문화에서 아이디어를 얻는 편입니다.
+- 🎥 개발과 관련된 유익한 유튜브 영상도 즐겨 보고, 유용한 정보는 기록해둡니다.
+- 🍀 일상 속 작은 성취를 소중히 여기며, 꾸준한 노력을 통해 성장하고 있습니다.
+- 📝 글쓰기 연습을 하고 있으며, 언젠가 개발 관련 블로그도 시작하려 합니다.
+- 🎮 게임을 좋아하며, 가끔씩 게임 개발에도 관심이 생겨 간단한 게임을 만들어 보고 있습니다.
+- 🧘 꾸준히 운동을 하며 체력과 집중력을 기르려고 노력합니다.
+- 📊 데이터를 활용한 분석과 시각화를 배우며, 통찰력을 높이기 위해 노력 중입니다.
+- 📺 주말에는 영화를 보며 창의적인 아이디어를 얻고, 생각을 넓히려 노력합니다.
+- 🖌️ 디지털 일러스트에 취미가 있어, 코딩 외에도 창의적인 활동을 즐깁니다.
+- 🚴 자전거 타기를 즐기며, 자연에서 아이디어를 얻고 활력을 되찾습니다.
+- 🍜 요리에 관심이 있어, 새로운 레시피에 도전하며 창의성을 발휘합니다.
+- 💡 자기계발서를 읽으며 시간 관리, 자기계발 등의 습관을 기르고 있습니다.
+```
+
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
@@ -72,6 +110,7 @@
 * CSE Club at CPU.
 * CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
 * Internshala Student Partner-16.
+  
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
@@ -83,7 +122,3 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
