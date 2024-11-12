@@ -64,6 +64,10 @@
 - 🎯 Portfolio site: [Portfolio](https://portfolio-zztkdfo.vercel.app/).
 - ⚡ Fun fact: 개발, 독서, 운동, 러닝, 상담, 잡담 등등.
 
+<br />
+<br />
+
+예시 문구
 ```
 - 💬 무엇이든 편하게 물어보세요. 함께 성장하는 대화를 나누고 싶습니다.
 - 📫 Read my blogs: [기술블로그](url).
