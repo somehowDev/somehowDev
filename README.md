@@ -57,6 +57,7 @@
 
 <br /><br />
 
+
 ## Hello World!! 🤔
 <!--GIF 이미지 추가 -->
 <img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -68,7 +69,7 @@
 - ⚡ Fun fact: 개발, 독서, 운동, 러닝, 상담, 잡담 등등.
 - 🌱 매일 조금씩 배우며 더 나은 개발자가 되기 위해 노력하고 있습니다.
 - ✈️ 여행을 좋아하며, 다양한 문화에서 아이디어를 얻는 편입니다.
-- 
+  
 <br /><br />
 
 예시 문구
@@ -145,6 +146,8 @@
 
 ➡️ [more articles...](https://disquiet.io/@zztkdfo/articles)
 
+<br /><br />
+
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
@@ -155,6 +158,8 @@
 * CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
 * Internshala Student Partner-16.
   
+<br /><br />
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
@@ -166,3 +171,28 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 
+<br /><br />
+
+## 🛠️ My Projects
+<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+
+<br /><br />
+
+## 🎞️ Images
+<div>
+<img align="left" alt="코딩" width="300" src="https://camo.githubusercontent.com/a5e9c18e7f1a0431fd04228a283f222f87ff0c7423c071ab6afb7ce86ce4be9c/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
+<img align="left" alt="코딩" width="300" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="left" alt="코딩" width="300" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+</div>
+<br /><br />
+<div>
+<img align="left" alt="코딩" width="300" src="https://github.com/user-attachments/assets/b5c566cb-7847-42b9-ab6d-582730407718" />
+<img align="left" alt="코딩" width="300" src="https://github.com/user-attachments/assets/07e32e7c-2865-4593-a77f-383db0a0ba0e" />
+<img align="left" alt="코딩" width="300" src="https://github.com/user-attachments/assets/eb7ea291-99db-4225-b84b-2d597dd20370" />
+</div>
+<br /><br />
