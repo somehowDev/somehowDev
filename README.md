@@ -191,6 +191,7 @@ Talk to me about:
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
 </div>
+
 <br /><br />
 
 ## 🎞️ Images
