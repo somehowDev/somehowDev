@@ -11,7 +11,9 @@
 <i><strong>매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i>
 
   </div>
-  <img src='https://github.githubassets.com/images/mona-whisper.gif' width='200'>
+  <div>
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
+  </div>
 </div>
 
 
