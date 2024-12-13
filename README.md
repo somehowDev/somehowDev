@@ -1,25 +1,20 @@
-# 반갑습니다, 저는 개발자 zztkdfo 입니다. <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+## 반갑습니다, 저는 개발자 zztkdfo 입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
 
 
+<img align="right" alt="코딩" width="200" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" /> 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div align="left">
-  <img width="200" src="https://img.shields.io/badge/Gmail-zztkdfo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img width="200" src="https://img.shields.io/badge/Gmail-zztkdfo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+안녕하세요, 반갑습니다. 🤗<br />저는 현재 프리랜서 및 퍼스널브랜딩에 관심이 많은 프론트엔드 개발자 입니다. 🚀<br />지금은 취업 준비생, 대학생, 비전공자들에게 작게나마 도움을 주는 일을 하고 있습니다. 🤝<br /><br /><i><strong>매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i><br /> 
 
-안녕하세요, 반갑습니다. 🤗  
-저는 현재 프리랜서 및 퍼스널브랜딩에 관심이 많은 프론트엔드 개발자 입니다. 🚀  
-지금은 취업 준비생, 대학생, 비전공자들에게 작게나마 도움을 주는 일을 하고 있습니다. 🤝  
-  
-<i><strong>매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i>  
-
-  </div>
-  <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
-</div>
-
+<br />
+<br />
 
 
 ## Hello World!! 🤔
+
+
+  <img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 
 
@@ -30,13 +25,8 @@
 • ✨ Trust 꾸준함, 과정, 습관, 경험, 배움  
 • 🔍 데이터 분석을 활용해 문제를 이해하고, 효율적인 솔루션을 설계합니다.  
 • 🚀 진행 중인 프로젝트를 통해 학습한 기술을 실전에 적용하고 있습니다.  
-
-
-
-<div align="center">
-  <img alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-</div>
-
+<br />
+<br />
 
 
 ## 기술 스택
