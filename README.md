@@ -1,11 +1,10 @@
-# 반갑습니다, 저는 개발자 zztkdfo 입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+# 반갑습니다, 저는 개발자 zztkdfo 입니다. <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 
 
-<img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
-
-<img width="200" src="https://img.shields.io/badge/Gmail-zztkdfo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div align="left">
+  <img width="200" src="https://img.shields.io/badge/Gmail-zztkdfo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 안녕하세요, 반갑습니다. 🤗  
@@ -14,6 +13,9 @@
   
 <i><strong>매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i>  
 
+  </div>
+  <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
+</div>
 
 
 
