@@ -1,11 +1,11 @@
-## 반갑습니다, 프론트엔드 개발자 정성훈 입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
+## 반갑습니다, 저는 개발자 medioloper 입니다.  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
 
 
 <img align="right" alt="코딩" width="200" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" /> 
 
-<img width="200" src="https://img.shields.io/badge/Gmail-jsh0218131@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+📧 32173057@dankook.ac.kr
 
-안녕하세요, 새로운 가치를 만드는 <strong>웹을 설계하는 신입 프론트엔드 개발자 정성훈</strong>입니다. 🚀<br />🎯 저는 <strong>React, Javascript</strong>를 처음 배우며, 컴포넌트를 통해 <strong>복잡한 UI를 간결하게 관리할 수 있다는 점</strong>에 큰 매력을 느꼈습니다. <br /><br />또한, <strong>상태 관리와 재사용 가능한 코드를 통해 사용자 경험을 세밀하게 설계할 수 있다는 점</strong>과 <br /><strong>사용자의 즉각적인 피드백을 통한 개발의 재미와 가치를 발견</strong>했습니다. <br /><br />현재는 <strong>TypeScript를 활용해 안정성과 가독성</strong>을 높이는 방법을 배우고 있으며, <br />더 <strong>나은 성능과 UX를 제공하기 위해 끊임없이 고민</strong>하고 있습니다.<br /><strong>기대를 넘어서는 경험을 제공하는 웹을 만들기 위해 끊임없이 성장</strong>하겠습니다. 😊 
+안녕하세요! 🤗<br /><strong>호기심으로 시작해 열정으로 성장하는 프론트엔드 개발자 medioloper</strong>입니다. 🚀<br /><br /><strong>웹 페이지가 어떻게 동작하는지 궁금했던 호기심에서 출발</strong>해, <br />그 <strong>과정을 직접 설계하고 구현하는 데에서 얻는 즐거움</strong>은 저를 프론트엔드 개발의 길로 이끌었습니다. <br />내가 작성한 코드가 사용자의 <strong>경험으로 이어지는 과정을 이해하고 개선</strong>하는 일은 저에게 끝없는 <strong>동기와 성취감</strong>을 줍니다. ✨<br /><br /><br />현재는 다양한 프로젝트를 통해 여러 라이브러리와 프레임워크를 사용하며,<br /><strong>문제를 해결하고 새로운 기술을 익히는 과정</strong>에서 얻은 인사이트를 쌓아가고 있습니다. 📝<br /><br />저는 <strong>"작은 호기심이 열정으로 이어져 큰 변화를 만든다"</strong>는 믿음을 가지고, <br /><strong>매일 꾸준히 학습하고 도전하며 더 나은 개발자</strong>가 되고자 합니다. 🤝<br /><br /> 
 
 <br />
 <br />
