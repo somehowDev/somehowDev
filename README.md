@@ -15,7 +15,7 @@
 ## Hello World!! 🤔
 
 
-<img align="right" alt="코딩" width="220" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="right" alt="코딩" width="220" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
 
 
 • 💬 무엇이든 편하게 물어보세요. 함께 성장하는 대화를 나누고 싶습니다.  
